@@ -6,6 +6,11 @@
 - 매일 할 일을 이슈로 생성한다.
 - 다음 날 아침 전까지 모두 수행한다.
 
+```python
+if not stack:
+  sleep()
+```
+
 ## Members
 - [chaselover](https://github.com/chaselover/)
 - [devpla](https://github.com/devpla/)
