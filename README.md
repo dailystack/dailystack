@@ -22,32 +22,32 @@ if not stack:
 ## Members
 
 <table>
-    <tr height="160px">
-        <td align="center" width="150px">
-            <a href="https://github.com/chaselover/"><img src="https://avatars.githubusercontent.com/u/79824434?v=4"/></a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/devpla"><img src="https://avatars.githubusercontent.com/u/87457066?v=4"/></a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/seokzin/"><img src="https://avatars.githubusercontent.com/u/43740455?v=4"/></a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/emoralVisionary/"><img src="https://avatars.githubusercontent.com/u/67882490?v=4"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="150px">
-            <strong>chaselover</strong>
-        </td>
-        <td align="center" width="150px">
-            <strong>devpla</strong>
-        </td>
-        <td align="center" width="150px">
-            <strong>seokzin</strong>
-        </td>
-        <td align="center" width="150px">
-            <strong>emoralVisionary</strong>
-        </td>
-    </tr>
+  <tr height="160px">
+    <td align="center" width="150px">
+      <a href="https://github.com/chaselover/"><img src="https://avatars.githubusercontent.com/u/79824434?v=4"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/devpla"><img src="https://avatars.githubusercontent.com/u/87457066?v=4"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/seokzin/"><img src="https://avatars.githubusercontent.com/u/43740455?v=4"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/emoralVisionary/"><img src="https://avatars.githubusercontent.com/u/67882490?v=4"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150px">
+      <strong>승주</strong><br><a href="https://github.com/chaselover/">chaselover</a>
+    </td>
+    <td align="center" width="150px">
+      <strong>연희</strong><br><a href="https://github.com/devpla/">devpla</a>
+    </td>
+    <td align="center" width="150px">
+      <strong>석진</strong><br><a href="https://github.com/seokzin/">seokzin</a>
+    </td>
+    <td align="center" width="150px">
+      <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
+    </td>
+  </tr>
 </table>
