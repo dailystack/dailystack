@@ -53,7 +53,7 @@ if not stack:
       <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
     </td>
     <td align="center" width="150px">
-      <strong>석영</strong><br><a href="https://github.com/zerossy/">emoralVisionary</a>
+      <strong>석영</strong><br><a href="https://github.com/zerossy/">zerossy</a>
     </td>
   </tr>
 </table>
