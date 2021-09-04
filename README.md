@@ -35,6 +35,9 @@ if not stack:
     <td align="center" width="150px">
       <a href="https://github.com/emoralVisionary/"><img src="https://avatars.githubusercontent.com/u/67882490?v=4"/></a>
     </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/zerossy/"><img src="https://avatars.githubusercontent.com/u/87457284?v=4"/></a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="150px">
@@ -48,6 +51,9 @@ if not stack:
     </td>
     <td align="center" width="150px">
       <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
+    </td>
+    <td align="center" width="150px">
+      <strong>석영</strong><br><a href="https://github.com/zerossy/">emoralVisionary</a>
     </td>
   </tr>
 </table>
