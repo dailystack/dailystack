@@ -53,7 +53,7 @@ if not stack:
       <strong>석진</strong><br><a href="https://github.com/seokzin/">seokzin</a>
     </td>
       <td align="center" width="150px">
-      <strong>승윤</strong><br><a href="https://github.com/YoonBaek.">YoonBaek</a>
+      <strong>승윤</strong><br><a href="https://github.com/YoonBaek/">YoonBaek</a>
     </td>
     <td align="center" width="150px">
       <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
