@@ -22,7 +22,7 @@ if not stack:
 ## Members
 
 <table>
-  <tr height="160px">
+  <tr height="150px">
     <td align="center" width="150px">
       <a href="https://github.com/chaselover/"><img src="https://avatars.githubusercontent.com/u/79824434?v=4"/></a>
     </td>
