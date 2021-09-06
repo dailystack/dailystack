@@ -1,12 +1,15 @@
 ### 💣 Must Do
+
+#### 📝 Class
 - [ ] Task
+- [ ] 
 
 ---
 
 ### 🥇 Algorithms
 - [ ] 0001 문제이름
 
-### 🕸️ Class
+### 🕸️ Web
 - [ ] Task
 
 ### 📚 Book following
