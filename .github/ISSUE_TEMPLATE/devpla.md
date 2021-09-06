@@ -7,7 +7,7 @@ assignees: devpla
 
 ---
 
-### ⏰ Must Do
+### ⏰ ASAP
 - [ ] Task
 
 ---
@@ -15,8 +15,12 @@ assignees: devpla
 ### 🍨 Algorithms
 - [ ] 0001 문제이름
 
+<br>
+
 ### 🍧 Django
 - [ ] Task
+
+<br>
 
 ### 🍰 JavaScript
 - [ ] Task
