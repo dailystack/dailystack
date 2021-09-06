@@ -7,21 +7,34 @@ assignees: seokzin
 
 ---
 
-###  Must Do
-- [ ] Task
+### 🔥 ASAP
+- [ ] TODO
+
+<br/>
 
 ---
 
-### 🍧 Algorithms
-- [ ] 0001 문제이름
+### 🚀 Algorithms
+- [ ] TODO
 
-### 🍧 Django
-- [ ] Task
+<br/>
 
-### 🍰 JavaScript
-- [ ] Task
+### 🌌 Web
+- [ ] TODO
+
+<br/>
+
+### ✒ Posting
+- [ ] TODO
+
+<br/>
+
+### 📚 ETC
+- [ ] TODO
+
+<br/>
 
 ---
 
-### 📚 Backlog
-- [ ] Task
+### 📦 Backlog
+- [ ] TODO
