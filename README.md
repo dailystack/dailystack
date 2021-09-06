@@ -27,10 +27,13 @@ if not stack:
       <a href="https://github.com/chaselover/"><img src="https://avatars.githubusercontent.com/u/79824434?v=4"/></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/devpla"><img src="https://avatars.githubusercontent.com/u/87457066?v=4"/></a>
+      <a href="https://github.com/devpla/"><img src="https://avatars.githubusercontent.com/u/87457066?v=4"/></a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/seokzin/"><img src="https://avatars.githubusercontent.com/u/43740455?v=4"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/YoonBaek/"><img src="https://avatars.githubusercontent.com/u/69225659?v=4"/></a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/emoralVisionary/"><img src="https://avatars.githubusercontent.com/u/67882490?v=4"/></a>
@@ -48,6 +51,9 @@ if not stack:
     </td>
     <td align="center" width="150px">
       <strong>석진</strong><br><a href="https://github.com/seokzin/">seokzin</a>
+    </td>
+      <td align="center" width="150px">
+      <strong>승윤</strong><br><a href="https://github.com/YoonBaek.">seokzin</a>
     </td>
     <td align="center" width="150px">
       <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
