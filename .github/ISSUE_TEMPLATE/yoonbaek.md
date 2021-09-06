@@ -1,3 +1,12 @@
+---
+name: yoonbaek
+about: 유튜브 그만 봐
+title: ''
+labels: "\U0001F436 백승윤"
+assignees: YoonBaek
+
+---
+
 ### 💣 Must Do
 
 #### 📝 Class
