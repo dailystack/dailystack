@@ -7,43 +7,43 @@ assignees: chaselover
 
 ---
 
-# 🧨 Priority Queue
-- [ ]
+## 🧨 Priority Queue
+- [ ] 1
 
 ---
 
-# ⏰ Today Stack
+## ⏰ Today Stack
 
-## 🥞 Algorithm
+### 🥞 Algorithm
 
-### 📕 Daily Essencial (Study)
+#### 📕 Daily Essencial (Study)
 - [ ] 1 
 - [ ] 2
 - [ ] 3
 - [ ] 4
 
-### 📗 Problem Sovle
+#### 📗 Problem Sovle
 - [ ] 1
 - [ ] 2
 
-### 📘 More Step
+#### 📘 More Step
 - [ ] 1
 
-## 🍦 Web
+### 🍦 Web
 - [ ] JS
 - [ ] React
 - [ ] Django
 
-## 🍜 Computer Science
+### 🍜 Computer Science
 - [ ] 1
 
-## 🥘Project
+### 🥘Project
 - [ ] 1
 
-## 🎖 코무합니다만..
+### 🎖 코무합니다만..
 - [ ] 1
 
 ---
 
-# ⌛ Backlog
-- [ ]
+## ⌛ Backlog
+- [ ] 1
