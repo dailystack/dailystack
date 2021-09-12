@@ -22,7 +22,7 @@ if not stack:
 ## Members
 
 <table>
-  <tr height="200px">
+  <tr height="205px">
     <td align="center" width="200px">
       <a href="https://github.com/chaselover/"><img src="https://avatars.githubusercontent.com/u/79824434?v=4"/></a>
     </td>
@@ -50,7 +50,7 @@ if not stack:
       <strong>승윤</strong><br><a href="https://github.com/YoonBaek/">YoonBaek</a>
     </td>
   </tr>
-  <tr height="200px">
+  <tr height="205px">
     <td align="center" width="200px">
       <a href="https://github.com/zerossy/"><img src="https://avatars.githubusercontent.com/u/87457284?v=4"/></a>
     </td>
