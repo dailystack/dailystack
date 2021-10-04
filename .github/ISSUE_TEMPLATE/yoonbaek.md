@@ -1,7 +1,7 @@
 ---
 name: yoonbaek
 about: 유튜브 그만 봐
-title: ''
+title: 21.10.00 (일)
 labels: "\U0001F436 백승윤"
 assignees: YoonBaek
 

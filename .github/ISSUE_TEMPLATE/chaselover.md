@@ -1,7 +1,7 @@
 ---
 name: chaselover
 about: 승주 stack.clear()
-title: 21.00.00 (월)
+title: 21.10.00 (일)
 labels: "\U0001F340 한승주"
 assignees: chaselover
 
