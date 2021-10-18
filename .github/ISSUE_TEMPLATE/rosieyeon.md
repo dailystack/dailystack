@@ -17,12 +17,12 @@ assignees: rosieyeon
 
 <br>
 
-### 🍧 Django
+### 🍧 SSAFY
 - [ ] Task
 
 <br>
 
-### 🔖 CS
+### 🇺🇸 CS
 - [ ] Task
 
 <br>
