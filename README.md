@@ -33,7 +33,7 @@ if not stack:
       <a href="https://github.com/seokzin/"><img src="https://avatars.githubusercontent.com/u/43740455?v=4"/></a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/YoonBaek/"><img src="https://avatars.githubusercontent.com/u/69225659?v=4"/></a>
+      <a href="https://github.com/rosieyeon/"><img src="https://avatars.githubusercontent.com/u/70363530?v=4"/></a>
     </td>
   </tr>
   <tr>
@@ -46,16 +46,23 @@ if not stack:
     <td align="center" width="200px">
       <strong>석진</strong><br><a href="https://github.com/seokzin/">seokzin</a>
     </td>
-      <td align="center" width="200px">
-      <strong>승윤</strong><br><a href="https://github.com/YoonBaek/">YoonBaek</a>
+    <td align="center" width="200px">
+      <strong>승은</strong><br><a href="https://github.com/rosieyeon/">rosieyeon</a>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<details>
+<summary>휴가중</summary>
+<table>
   <tr height="205px">
     <td align="center" width="200px">
-      <a href="https://github.com/zerossy/"><img src="https://avatars.githubusercontent.com/u/87457284?v=4"/></a>
+      <a href="https://github.com/YoonBaek/"><img src="https://avatars.githubusercontent.com/u/69225659?v=4"/></a>
     </td>
-     <td align="center" width="200px">
-      <a href="https://github.com/rosieyeon/"><img src="https://avatars.githubusercontent.com/u/70363530?v=4"/></a>
+    <td align="center" width="200px">
+      <a href="https://github.com/zerossy/"><img src="https://avatars.githubusercontent.com/u/87457284?v=4"/></a>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/emoralVisionary/"><img src="https://avatars.githubusercontent.com/u/67882490?v=4"/></a>
@@ -63,13 +70,14 @@ if not stack:
   </tr>
   <tr>
     <td align="center" width="200px">
-      <strong>석영</strong><br><a href="https://github.com/zerossy/">zerossy</a>
+      <strong>승윤</strong><br><a href="https://github.com/YoonBaek/">YoonBaek</a>
     </td>
     <td align="center" width="200px">
-      <strong>승은</strong><br><a href="https://github.com/rosieyeon/">rosieyeon</a>
+      <strong>석영</strong><br><a href="https://github.com/zerossy/">zerossy</a>
     </td>
     <td align="center" width="200px">
       <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
     </td>
   </tr>
 </table>
+</details>
