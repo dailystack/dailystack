@@ -35,6 +35,9 @@ if not stack:
     <td align="center" width="200px">
       <a href="https://github.com/rosieyeon/"><img src="https://avatars.githubusercontent.com/u/70363530?v=4"/></a>
     </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/zerossy/"><img src="https://avatars.githubusercontent.com/u/87457284?v=4"/></a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="200px">
@@ -49,6 +52,9 @@ if not stack:
     <td align="center" width="200px">
       <strong>승은</strong><br><a href="https://github.com/rosieyeon/">rosieyeon</a>
     </td>
+    <td align="center" width="200px">
+      <strong>석영</strong><br><a href="https://github.com/zerossy/">zerossy</a>
+    </td>
   </tr>
 </table>
 
@@ -62,18 +68,12 @@ if not stack:
       <a href="https://github.com/YoonBaek/"><img src="https://avatars.githubusercontent.com/u/69225659?v=4"/></a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/zerossy/"><img src="https://avatars.githubusercontent.com/u/87457284?v=4"/></a>
-    </td>
-    <td align="center" width="200px">
       <a href="https://github.com/emoralVisionary/"><img src="https://avatars.githubusercontent.com/u/67882490?v=4"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200px">
       <strong>승윤</strong><br><a href="https://github.com/YoonBaek/">YoonBaek</a>
-    </td>
-    <td align="center" width="200px">
-      <strong>석영</strong><br><a href="https://github.com/zerossy/">zerossy</a>
     </td>
     <td align="center" width="200px">
       <strong>정제</strong><br><a href="https://github.com/emoralVisionary/">emoralVisionary</a>
