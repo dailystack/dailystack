@@ -1,13 +1,13 @@
 ---
 name: seokzin
 about: 석진아 VS켜라
-title: 21.10.00 (일)
+title: 21.11.00 (일)
 labels: "☕ 소석진"
 assignees: seokzin
-
 ---
 
 ### 🔥 ASAP
+
 - [ ] TODO
 
 <br/>
@@ -15,21 +15,25 @@ assignees: seokzin
 ---
 
 ### 🚀 Algorithms
+
 - [ ] TODO
 
 <br/>
 
 ### 🌌 Web
+
 - [ ] TODO
 
 <br/>
 
 ### ✒ Posting
+
 - [ ] TODO
 
 <br/>
 
 ### 📚 ETC
+
 - [ ] TODO
 
 <br/>
@@ -37,4 +41,5 @@ assignees: seokzin
 ---
 
 ### 📦 Backlog
+
 - [ ] TODO

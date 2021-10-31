@@ -1,13 +1,13 @@
 ---
 name: zerossy (비워내야 제로지)
 about: 비우기 == 채우기
-title: 21.10.00 (D)
+title: 21.11.00 (D)
 labels: "\U0001F40B 신석영"
 assignees: zerossy
-
 ---
 
 ### 🔥 ASAP
+
 - [ ] TODO
 
 <br/>
@@ -15,21 +15,25 @@ assignees: zerossy
 ---
 
 ### 🏫 Ssafy
+
 - [ ] TODO
 
 <br/>
 
 ### 🚀 Algorithms
+
 - [ ] TODO
 
 <br/>
 
 ### 🐋 Front
+
 - [ ] TODO
 
 <br/>
 
 ### 📚 ETC
+
 - [ ] TODO
 
 <br/>
@@ -37,4 +41,5 @@ assignees: zerossy
 ---
 
 ### 📦 Backlog
+
 - [ ] TODO
