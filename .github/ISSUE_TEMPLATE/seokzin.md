@@ -4,6 +4,7 @@ about: 석진아 VS켜라
 title: 21.11.00 (일)
 labels: "☕ 소석진"
 assignees: seokzin
+
 ---
 
 ### 🔥 ASAP
