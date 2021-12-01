@@ -1,7 +1,7 @@
 ---
 name: rosieyeon
 about: hit you with that to-do to-do
-title: 21.11.00 (일)
+title: 21.12.00 (일)
 labels: "\U0001F490 연승은"
 assignees: rosieyeon
 
