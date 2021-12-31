@@ -1,35 +1,40 @@
 ---
 name: rosieyeon
 about: hit you with that to-do to-do
-title: 21.12.00 (일)
+title: 22.01.00 (일)
 labels: "\U0001F490 연승은"
 assignees: rosieyeon
-
 ---
 
-### 👻  ASAP
+### 👻 ASAP
+
 - [ ] Task
-<br>
+      <br>
 
 ---
 
-### 🍉  Algorithms
+### 🍉 Algorithms
+
 - [ ] 0001 문제이름
-<br>
+      <br>
 
-### 🍂  SSAFY
-- [ ] Task
-<br>
+### 🍂 SSAFY
 
-### 🇺🇸  CS
 - [ ] Task
-<br>
+      <br>
 
-### 💍  Private
+### 🇺🇸 CS
+
 - [ ] Task
-<br>
+      <br>
+
+### 💍 Private
+
+- [ ] Task
+      <br>
 
 ---
 
-### 📌  Backlog
+### 📌 Backlog
+
 - [ ] Task

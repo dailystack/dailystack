@@ -1,10 +1,9 @@
 ---
 name: seokzin
-about: 석진아 VS켜라
-title: 21.12.00 (일)
+about: 석진아 JS 공부하자
+title: 22.01.00 (일)
 labels: "☕ 소석진"
 assignees: seokzin
-
 ---
 
 ### 🔥 ASAP
