@@ -1,7 +1,7 @@
 ---
 name: zerossy (비워내야 제로지)
 about: 비우기 == 채우기
-title: 22.01.00 (D)
+title: 22.02.00 (D)
 labels: "\U0001F40B 신석영"
 assignees: zerossy
 ---
